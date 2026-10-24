@@ -1,13 +1,55 @@
-# RUNNING WITH ROTTWEILERS
+# 🐺 RUNNING WITH ROTTWEILERS
 
 ### Artur Maciejewski
+**Linux Enthusiast • Open Source Developer • Desktop Customization**
 
-Linux enthusiast & open-source developer.
+Welcome to my GitHub profile!
 
-Creator of X-ARCH Theme Studio.
+I'm building Linux desktop applications and tools focused on customization, usability, and distinctive visual design.
 
-## Projects
-- [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio)
+My projects combine practical functionality with a passion for Linux, open-source software, and creative interfaces.
 
-## Technologies
-Python · GTK4 · Rust · Arch Linux · CachyOS
+---
+
+## 🚀 Featured Project
+
+### X-ARCH Theme Studio
+
+A Linux icon theme manager built with **Python, GTK4, and Rust**.
+
+**Project goals:**
+- Manage and preview Linux icon themes.
+- Customize individual folder icons.
+- Import icon theme packages.
+- Back up and restore configuration changes.
+- Support KDE Plasma and Hyprland workflows.
+
+🔗 [Explore X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio)
+
+*Public beta in preparation.*
+
+---
+
+## 🛠 Technologies & Platforms
+
+**Languages:** Python • Rust
+
+**Desktop technologies:** GTK4 • KDE Plasma • Wayland • Hyprland
+
+**Linux distributions:** Arch Linux • CachyOS
+
+**Development:** Git • GitHub • Open Source
+
+---
+
+## 🐾 Running With Rottweilers
+
+**Running With Rottweilers** is my personal development identity and the home of my Linux projects.
+
+More applications, utilities, and desktop customization tools are planned.
+
+---
+
+**Created by Artur Maciejewski**
+
+[GitHub Profile](https://github.com/runningwithrottweilers)
