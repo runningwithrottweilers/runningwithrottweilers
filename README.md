@@ -10,7 +10,7 @@
 
 Creating independent software, desktop customization tools, and distinctive experiences for Linux.
 
-[GitHub](https://github.com/runningwithrottweilers) · [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Latest Release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.1.1-beta)
+[Official Website](https://runningwithrottweilers.github.io/) · [GitHub](https://github.com/runningwithrottweilers) · [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Latest Release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.1.1-beta)
 
 </div>
 
@@ -50,6 +50,8 @@ A Linux icon theme manager built with Python, GTK4, and Rust.
 - Exploring support for additional platforms, including Windows.
 
 ## Connect
+
+- **Official website:** [RUNNING WITH ROTTWEILERS](https://runningwithrottweilers.github.io/)
 
 - **LinkedIn:** [RUNNING WITH ROTTWEILERS](https://www.linkedin.com/company/running-with-rottweilers)
 
