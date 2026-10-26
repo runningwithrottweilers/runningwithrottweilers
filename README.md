@@ -10,7 +10,7 @@
 
 Creating independent software, desktop customization tools, and distinctive experiences for Linux.
 
-[Official Website](https://runningwithrottweilers.github.io/) · [GitHub](https://github.com/runningwithrottweilers) · [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Latest Release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.1.1-beta)
+[Official Website](https://runningwithrottweilers.github.io/) · [GitHub](https://github.com/runningwithrottweilers) · [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Latest Release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.1.2-beta)
 
 </div>
 
@@ -33,9 +33,9 @@ A Linux icon theme manager built with Python, GTK4, and Rust.
 - Explore the X-ARCH Alien Themes collection.
 - Available as AppImage and Flatpak for Linux x86_64.
 
-**Current release:** `v0.1.1-beta`
+**Current release:** `v0.1.2-beta`
 
-[Source code](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Download release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.1.1-beta) · [Alien Themes](https://github.com/runningwithrottweilers/xarch-alien-themes)
+[Source code](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Download release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.1.2-beta) · [Alien Themes](https://github.com/runningwithrottweilers/xarch-alien-themes)
 
 *Note: The project is in beta. Individual folder icon customization works; full system-wide theme integration is still being refined. Compatibility has not been verified across every Linux distribution.*
 
