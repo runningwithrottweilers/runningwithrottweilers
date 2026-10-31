@@ -31,7 +31,9 @@ A Linux icon theme manager built with Python, GTK4, and Rust.
 - Preview and manage icon themes.
 - Customize individual folder icons.
 - Explore the X-ARCH Alien Themes collection.
-- Latest beta available as Flatpak for Linux x86_64. Earlier releases also include AppImage builds.
+- Current v0.5.0-beta release available for Linux x86_64:
+  - [AppImage](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/download/v0.5.0-beta/X-ARCH_Theme_Studio-v0.5.0-beta-x86_64.AppImage)
+  - [Flatpak](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/download/v0.5.0-beta/X-ARCH-Theme-Studio-v0.5.0-beta-x86_64.flatpak)
 
 **Current release:** `v0.5.0-beta`
 
