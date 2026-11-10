@@ -10,7 +10,7 @@
 
 Creating independent software, desktop customization tools, and distinctive experiences for Linux.
 
-[Official Website](https://runningwithrottweilers.github.io/) · [GitHub](https://github.com/runningwithrottweilers) · [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio) · [Latest Release](https://github.com/runningwithrottweilers/xarch-theme-studio/releases/tag/v0.5.0-beta)
+[Official Website](https://runningwithrottweilers.github.io/) · [RWR Package Intelligence](https://github.com/runningwithrottweilers/rwr-package-intelligence) · [X-ARCH Theme Studio](https://github.com/runningwithrottweilers/xarch-theme-studio)
 
 </div>
 
@@ -18,11 +18,30 @@ Creating independent software, desktop customization tools, and distinctive expe
 
 ## About Us
 
+**Author & Lead Developer:** Artur Maciejewski
+
 RUNNING WITH ROTTWEILERS is the independent software development identity of Artur Maciejewski. The project focuses on Linux desktop applications, icon themes, customization tools, and practical open-source software.
 
 We combine technical experimentation with a distinctive visual identity, building useful tools one project at a time.
 
 ## Our Projects
+
+### RWR Package Intelligence
+
+**Know what is changing. Update Arch Linux with confidence.**
+
+A Rust and GTK4 graphical update manager for Arch Linux, with package intelligence, change information, and an authorized system-update workflow.
+
+- Inspect available updates and package version changes.
+- Review package information and important system updates.
+- Perform authorized full-system updates through the installed backend.
+- Polish and English interface with the RWR X-FILES visual identity.
+
+**Current beta:** `v0.1.0-beta` — Arch Linux x86_64 package.
+
+[Source code](https://github.com/runningwithrottweilers/rwr-package-intelligence) · [Download Arch package](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/download/v0.1.0-beta/rwr-package-intelligence-0.1.0-17-x86_64.pkg.tar.zst) · [Release and installation](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/tag/v0.1.0-beta)
+
+*The AppImage edition is being prepared and is not yet available as a verified release.*
 
 ### X-ARCH Theme Studio
 
@@ -73,6 +92,7 @@ For collaboration, general inquiries, and private matters, contact us by email.
 
 For bug reports, feature requests, and technical questions, please use GitHub Issues in the relevant repository.
 
+- [RWR Package Intelligence — Issues](https://github.com/runningwithrottweilers/rwr-package-intelligence/issues)
 - [X-ARCH Theme Studio — Issues](https://github.com/runningwithrottweilers/xarch-theme-studio/issues)
 - [Browse all repositories](https://github.com/runningwithrottweilers?tab=repositories)
 
