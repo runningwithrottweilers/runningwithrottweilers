@@ -37,11 +37,11 @@ A Rust and GTK4 graphical update manager for Arch Linux, with package intelligen
 - Perform authorized full-system updates through the installed backend.
 - Polish and English interface with the RWR X-FILES visual identity.
 
-**Current beta:** `v0.1.0-17-beta` — Arch Linux x86_64.
+**Current beta:** `v0.1.0-19-beta` — Arch Linux x86_64.
 
-[Source code](https://github.com/runningwithrottweilers/rwr-package-intelligence) · [Download AppImage](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/download/v0.1.0-17-beta/RWR-Package-Intelligence-0.1.0-17-x86_64.AppImage) · [Download backend](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/download/v0.1.0-17-beta/rwr-package-intelligence-backend-0.1.0-17-x86_64.pkg.tar.zst) · [Release and installation](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/tag/v0.1.0-17-beta)
+[Source code](https://github.com/runningwithrottweilers/rwr-package-intelligence) · [Download AppImage](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/download/v0.1.0-19-beta/RWR-Package-Intelligence-0.1.0-19-x86_64.AppImage) · [Download backend](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/download/v0.1.0-19-beta/rwr-package-intelligence-backend-0.1.0-19-x86_64.pkg.tar.zst) · [Release and installation](https://github.com/runningwithrottweilers/rwr-package-intelligence/releases/tag/v0.1.0-19-beta)
 
-*The AppImage contains the graphical interface. The backend requires separate installation and administrator configuration. A real system update was performed with the earlier version 0.1.0-15; real updating with 0.1.0-17 has not yet been verified.*
+*The AppImage contains the graphical interface. The backend requires separate installation and administrator configuration. A real system update was performed with the earlier version 0.1.0-15; real updating with 0.1.0-19 has not yet been verified.*
 
 ### X-ARCH Theme Studio
 
